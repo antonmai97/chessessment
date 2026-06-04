@@ -7,6 +7,17 @@ Tasks:
 - Graphical Interface (clean and clear graphical interface for user to know exactly how good their skills are. Also should look nice and motivate to do more chess)
 
 
+Frameworks/Tools I want to use:
+
+- Spring Boot/Security
+- Angular
+- Maven
+- PostgreSQL
+
+- Microservice
+- REST API
+
+
 
 
 
