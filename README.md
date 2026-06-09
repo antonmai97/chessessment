@@ -16,6 +16,7 @@ Frameworks/Tools I want to use:
 
 - Microservice
 - REST API
+- CI/CD
 
 
 
