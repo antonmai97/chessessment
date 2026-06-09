@@ -23,7 +23,7 @@ Frameworks/Tools I want to use:
 A first draft on the rough architecture of the chessessment web application.
 Using https://plantuml.com/component-diagram: 
 
-
+```plantuml
 @startuml
 [FrontEnd Angular] -- [API Gateway]
 [API Gateway] - [IdentityProvider]:OAuth
@@ -48,7 +48,7 @@ component Data {
 }
 
 @enduml
-
+```
 
 
 
