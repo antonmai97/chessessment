@@ -10,7 +10,7 @@ Tasks:
 Frameworks/Tools I want to use:
 
 - Spring Boot/Security
-- Angular
+- _Angular_ new plan: Use *React*
 - Maven
 - PostgreSQL
 
